@@ -1,0 +1,1 @@
+<p class="text-center">Copyright Web Engineering - All Rights Reserved</p>
